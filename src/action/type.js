@@ -1,0 +1,3 @@
+export const PLACE_ORDER = "PLACE_ORDER";
+export const MOVE_TO_NEXT_STAGE = "MOVE_TO_NEXT_STAGE";
+export const CANCEL_ORDER = "CANCEL_ORDER";
